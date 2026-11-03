@@ -9,4 +9,3 @@ LOGIN AND REGISTRATION ASSIGNMENT
 6. Visit http://localhost:3000/register.html
 7. Register a test user, then log in with the same credentials. Also test an incorrect password.
 
-Do not submit passwords or your node_modules folder.
