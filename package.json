@@ -1,0 +1,1 @@
+{"name":"login-registration-assignment","version":"1.0.0","private":true,"scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","express-session":"^1.19.0","mysql2":"^3.12.0"}}
